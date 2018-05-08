@@ -35,7 +35,7 @@ ronaldo vicuña flores
 
 <!-- Colocar icono app -->
 
-<icon src="res/android/mdpi.png" />
+<icon src="imagenes/Notifications.png"  />
 
 </widget>
 
